@@ -1,0 +1,39 @@
+{
+  "timeline": {
+    "soundtrack": {
+      "src": "https://shotstack-assets.s3-ap-southeast-2.amazonaws.com/music/freepd/motions.mp3"
+    },
+    "background": "#000000",
+    "tracks": [
+      {
+        "clips": [
+          {
+            "asset": {
+              "type": "title",
+              "text": "Hello World",
+              "style": "future"
+            },
+            "start": 0,
+            "length": 15
+          }
+        ]
+      },
+      {
+        "clips": [
+          {
+            "asset": {
+              "type": "video",
+              "src": "https://shotstack-assets.s3-ap-southeast-2.amazonaws.com/footage/earth.mp4"
+            },
+            "start": 0,
+            "length": 15
+          }
+        ]
+      }
+    ]
+  },
+  "output": {
+    "format": "mp4",
+    "resolution": "1080"
+  }
+}
