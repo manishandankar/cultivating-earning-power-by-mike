@@ -1,0 +1,77 @@
+﻿1
+00:00:07,707 --> 00:00:10,110
+You've taken a coding boot camp
+
+2
+00:00:10,977 --> 00:00:13,179
+and passed all of your exams,
+
+3
+00:00:14,714 --> 00:00:17,650
+but you haven't been able to get a job.
+
+4
+00:00:17,650 --> 00:00:21,554
+You see the layoffs
+from Big Tech and wondering,
+
+5
+00:00:22,655 --> 00:00:26,559
+Are my skills already obsolete? Yes.
+
+6
+00:00:26,860 --> 00:00:28,261
+Yes they are.
+
+7
+00:00:28,361 --> 00:00:30,997
+And that's why
+we created a Rust for the Resilient.
+
+8
+00:00:31,331 --> 00:00:33,967
+You've already proven that
+
+9
+00:00:33,967 --> 00:00:36,169
+you can learn how to code.
+
+10
+00:00:37,103 --> 00:00:39,939
+Now it's time to learn how to code
+like it's 2023
+
+11
+00:00:40,273 --> 00:00:42,409
+and get a job with a Fortune 1000
+
+12
+00:00:43,510 --> 00:00:47,213
+by migrating to Rust, the language
+adopted by groups
+
+13
+00:00:47,213 --> 00:00:51,017
+like Microsoft,
+Facebook, Amazon, Cloudflare and Linux.
+
+14
+00:00:51,484 --> 00:00:55,789
+You'll become immediately
+relevant to software development managers
+
+15
+00:00:56,122 --> 00:00:58,925
+who are rewriting their entire codebase.
+
+16
+00:01:00,226 --> 00:01:02,829
+Rust for the Resilient -
+
+17
+00:01:02,829 --> 00:01:04,931
+Take the entrance exam now
+
+18
+00:01:05,432 --> 00:01:08,535
+to see if you qualify.
